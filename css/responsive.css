@@ -1,0 +1,110 @@
+/* Media 940Px Start */
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+  .container{width:100%;}
+  .header-top{width:100%;}
+  .left-menu{padding: 0px 0px 0px 20px;}
+  .social-icon{padding: 0px 40px 0px 0px;}
+   nav{width:70%; padding: 15px 26px 0px 0px;}
+  .logo{    padding: 0px 0px 0px 40px;}
+  .half-circle {position: absolute;left: 30px; top: 40px;}
+  .header-box:{width:100%;float:left;}
+  .banner-text{padding:0px 0px 0px 60px;}
+  .about-text{width:95%;    padding: 0px 0px 0px 147px;}
+  .about-img{padding: 0px 0px 0px 30px;width: 40%;}
+  .choose-text{width: 58%;margin: 50px 0px 40px 0px;float: left;}
+  .choose-left{ width: 40%; padding: 0px 0px 0px 50px;}
+  .service-right-2{padding:130px 0px;width: 60%;}
+  .news-box{ width: 90%;margin-left: 55px;}
+  .news-box ul {margin:0 -15px}
+  .news-box ul li{width:33.33%; padding:0 15px}
+  .news-box ul li img{width:100%;}
+  .project-gallary ul li{width:33.33%;     padding: 0 15px;}
+  .project-gallary ul li img{    width: 100%;}
+  .project-gallary ul{margin:0px -15px;}
+  .project-gallary{width:95%;margin-left: 25px;}
+  .project-box{    width: 100%;float: left; margin-left: 100px;}
+  .offer-section{width:100%;}
+  footer{width:100%;}
+  footer ul li{width:25%;}
+  
+ } 
+
+
+
+
+
+
+
+
+
+/*  Media 768Px Start */
+@media (min-width: 768px) and (max-width: 990px) {
+  .container { width: 100%; }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+     .container{width:100%;}
+	 
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media 300Px Start */
+@media (max-width: 480px) {
+    .container{width: 100%;}
+    
+}    
+
+
+
+
+
+
